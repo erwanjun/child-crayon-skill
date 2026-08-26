@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">Child Crayon</title>
+  <desc id="desc">A project-native hero with rough child-crayon figures and the title Child Crayon.</desc>
+  <rect x="1" y="1" width="1198" height="498" rx="34" fill="#fffdfb" stroke="#e8e2dc" stroke-width="2"/>
+  <path d="M45 84 C150 42 255 53 340 83" fill="none" stroke="#f5d5de" stroke-width="19" stroke-linecap="round" opacity=".7"/>
+  <path d="M834 424 C944 466 1061 455 1146 414" fill="none" stroke="#d9e4f4" stroke-width="22" stroke-linecap="round" opacity=".7"/>
+
+  <g font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" fill="#171717">
+    <text x="74" y="105" font-size="19" font-weight="700" letter-spacing="3">AGENT SKILL · CHILD_CRAYON_V1</text>
+    <text x="70" y="215" font-size="86" font-weight="800" letter-spacing="-4">CHILD</text>
+    <text x="70" y="302" font-size="86" font-weight="800" letter-spacing="-4">CRAYON</text>
+    <text x="76" y="350" font-size="24" font-weight="500" fill="#5c5956">Photos in. One consistent childlike doodle out.</text>
+    <rect x="74" y="386" width="218" height="52" rx="26" fill="#171717"/>
+    <text x="104" y="420" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="700" fill="#fffdfb">$child-crayon</text>
+  </g>
+
+  <g stroke="#171717" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M708 416 C790 403 870 420 945 410 C1020 400 1082 415 1138 405" stroke="#a9c59e" stroke-width="13" opacity=".55"/>
+    <path d="M715 424 C808 414 881 429 954 419 C1020 409 1084 425 1135 415" stroke="#a9c59e" stroke-width="7" opacity=".45"/>
+
+    <ellipse cx="784" cy="218" rx="73" ry="67" stroke-width="10"/>
+    <ellipse cx="788" cy="220" rx="71" ry="65" stroke-width="4" transform="rotate(-2 788 220)"/>
+    <path d="M728 180 C746 132 822 131 846 177 C828 158 802 153 782 158 C760 161 744 171 728 180" stroke-width="11"/>
+    <path d="M735 174 C758 144 816 143 838 174" stroke-width="5"/>
+    <circle cx="762" cy="222" r="5" fill="#171717" stroke="none"/>
+    <circle cx="806" cy="221" r="5" fill="#171717" stroke="none"/>
+    <path d="M784 230 l-7 8 h9" stroke-width="5"/>
+    <path d="M770 252 q14 9 29 0" stroke-width="5"/>
+    <circle cx="744" cy="246" r="17" fill="#f2a9b8" opacity=".58" stroke="none"/>
+    <circle cx="821" cy="245" r="17" fill="#f2a9b8" opacity=".58" stroke="none"/>
+    <path d="M751 283 C743 315 747 353 756 393 C777 405 811 404 829 392 C839 351 837 315 827 283" stroke-width="9"/>
+    <path d="M758 298 C776 310 806 311 826 299" stroke="#9fb6d9" stroke-width="18" opacity=".78"/>
+    <path d="M763 326 C784 337 809 337 830 324" stroke="#9fb6d9" stroke-width="17" opacity=".68"/>
+    <path d="M759 352 C781 365 811 364 834 349" stroke="#9fb6d9" stroke-width="16" opacity=".6"/>
+    <path d="M764 390 l-10 47 M813 395 l9 42" stroke-width="10"/>
+    <path d="M738 438 q18 7 35 0 M808 438 q18 7 34 0" stroke-width="9"/>
+
+    <ellipse cx="919" cy="196" rx="81" ry="73" stroke-width="11"/>
+    <ellipse cx="923" cy="198" rx="78" ry="70" stroke-width="4" transform="rotate(2 923 198)"/>
+    <path d="M852 162 C861 115 900 105 940 116 C964 121 986 139 991 169 C966 147 943 142 915 144 C891 145 872 151 852 162" stroke-width="12"/>
+    <path d="M861 156 C891 125 952 125 982 161" stroke-width="5"/>
+    <circle cx="894" cy="201" r="5" fill="#171717" stroke="none"/>
+    <circle cx="943" cy="201" r="5" fill="#171717" stroke="none"/>
+    <path d="M919 210 l-8 8 h10" stroke-width="5"/>
+    <path d="M904 233 q16 10 33 0" stroke-width="5"/>
+    <circle cx="873" cy="226" r="18" fill="#f2a9b8" opacity=".58" stroke="none"/>
+    <circle cx="963" cy="226" r="18" fill="#f2a9b8" opacity=".58" stroke="none"/>
+    <path d="M880 269 C866 309 869 355 882 399 C905 411 944 410 965 396 C976 351 975 308 960 269" stroke-width="10"/>
+    <path d="M884 291 C905 301 937 303 958 292" stroke="#e5c88e" stroke-width="20" opacity=".8"/>
+    <path d="M879 321 C906 334 940 333 967 318" stroke="#e5c88e" stroke-width="18" opacity=".7"/>
+    <path d="M882 352 C906 365 944 363 969 348" stroke="#e5c88e" stroke-width="17" opacity=".62"/>
+    <path d="M890 399 l-7 40 M951 399 l9 39" stroke-width="10"/>
+    <path d="M866 440 q18 7 34 0 M946 440 q18 7 35 0" stroke-width="9"/>
+
+    <ellipse cx="1051" cy="251" rx="61" ry="57" stroke-width="9"/>
+    <ellipse cx="1054" cy="252" rx="59" ry="55" stroke-width="4" transform="rotate(-3 1054 252)"/>
+    <path d="M1001 226 C1015 190 1067 187 1098 219 C1073 205 1031 206 1001 226" stroke-width="10"/>
+    <circle cx="1031" cy="255" r="4.5" fill="#171717" stroke="none"/>
+    <circle cx="1068" cy="254" r="4.5" fill="#171717" stroke="none"/>
+    <path d="M1050 263 l-6 7 h8" stroke-width="4.5"/>
+    <path d="M1039 281 q12 8 25 0" stroke-width="4.5"/>
+    <circle cx="1018" cy="278" r="14" fill="#f2a9b8" opacity=".58" stroke="none"/>
+    <circle cx="1083" cy="276" r="14" fill="#f2a9b8" opacity=".58" stroke="none"/>
+    <path d="M1020 307 C1010 338 1015 373 1025 402 C1042 411 1068 410 1084 400 C1090 369 1091 337 1081 307" stroke-width="9"/>
+    <path d="M1024 326 C1040 337 1066 338 1081 327" stroke="#b9cfa8" stroke-width="16" opacity=".8"/>
+    <path d="M1020 350 C1042 363 1067 363 1087 348" stroke="#b9cfa8" stroke-width="15" opacity=".68"/>
+    <path d="M1030 400 l-5 36 M1074 401 l6 35" stroke-width="9"/>
+    <path d="M1014 438 q14 6 27 0 M1068 438 q14 6 27 0" stroke-width="8"/>
+
+    <path d="M827 300 C853 291 873 289 887 300" stroke-width="10"/>
+    <path d="M963 309 C992 316 1008 326 1022 340" stroke-width="9"/>
+  </g>
+
+  <g fill="#171717">
+    <circle cx="1118" cy="163" r="4"/>
+    <circle cx="1139" cy="181" r="3"/>
+    <circle cx="1097" cy="145" r="3"/>
+  </g>
+</svg>
