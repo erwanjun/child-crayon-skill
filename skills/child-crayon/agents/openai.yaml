@@ -1,0 +1,4 @@
+interface:
+  display_name: "Child Crayon"
+  short_description: "Turn photos into one consistent childlike crayon doodle"
+  default_prompt: "Use $child-crayon on my uploaded photos, preserve every real person exactly once, keep the fixed CHILD_CRAYON_V1 style, validate the result, and return one final image."
