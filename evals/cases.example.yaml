@@ -1,0 +1,23 @@
+version: 1
+style: CHILD_CRAYON_V1
+cases:
+  - id: family-three-primary-plus-hair-reference
+    assets:
+      primary: private/family-01.jpg
+      supporting:
+        - private/person-p2-hair.jpg
+    expected:
+      unique_people: 3
+      relationship: "child centered between two adults; adults lean inward"
+      identity_cues:
+        p1: ["short dark hair", "deep-blue top"]
+        p2: ["long wavy hair", "round glasses"]
+        p3: ["small child", "pale-yellow top"]
+      background: "mostly blank white paper"
+    critical_checks:
+      - people_count
+      - no_duplicates
+      - relationship_preserved
+      - fixed_face_grammar
+      - rough_black_crayon_line
+      - loose_fill_with_white_gaps
